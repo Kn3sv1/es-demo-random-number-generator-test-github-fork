@@ -1,0 +1,4 @@
+https://glebbahmutov.com/blog/use-github-instead-of-npm/
+
+
+http://debuggable.com/posts/how-to-fork-patch-npm-modules:4e2eb9f3-e584-44be-b1a9-3db7cbdd56cb
